@@ -39,5 +39,5 @@ params:
   logo:
     alt: Logo
     height: 50
-    url: #logo.png
+    url: logo.png
     width: 50
